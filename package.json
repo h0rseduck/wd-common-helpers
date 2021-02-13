@@ -1,5 +1,19 @@
 {
-  "name": "wd-helpers",
+  "name": "@h0rseduck/wd-common-helpers",
   "version": "1.0.0",
-  "private": true
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h0rseduck/wd-common-helpers.git"
+  },
+  "author": "h0rseduck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h0rseduck/wd-common-helpers/issues"
+  },
+  "homepage": "https://github.com/h0rseduck/wd-common-helpers#readme"
 }
