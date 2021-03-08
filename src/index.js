@@ -10,5 +10,5 @@ export const emptyBranding = {
   button_color: '#5fc6ff',
   button_text_color: '#ffffff',
   footer: '',
-  wd_subject: false
+  wd_subject: true
 }
