@@ -5,3 +5,10 @@ export const staticTokens = {
   clientEmail: { placeholder: 'Email клиента', field: 'email' },
   clientPhone: { placeholder: 'Телефон клиента', field: 'phone' }
 }
+
+export const emptyBranding = {
+  button_color: '#5fc6ff',
+  button_text_color: '#ffffff',
+  footer: '',
+  wd_subject: false
+}
